@@ -34,7 +34,7 @@
   "query_index.table.errors.subtitle": "Últimos 100 errores registrados para los trabajos del índice de consultas y vector en este ámbito.",
   "query_index.table.errors.title": "Errores recientes del indexador",
   "query_index.table.errors.viewDetails": "Ver detalles técnicos",
-  "query_index.table.filters.backend": "Backend",
+  "query_index.table.filters.backend": "Tipo de índice",
   "query_index.table.filters.backendOptions.customFields": "Campos personalizados",
   "query_index.table.filters.backendOptions.fulltext": "Búsqueda de texto completo",
   "query_index.table.filters.backendOptions.vector": "Búsqueda vectorial",
