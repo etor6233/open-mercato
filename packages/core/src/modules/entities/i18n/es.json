@@ -129,7 +129,7 @@
   "entities.customFields.editor.validation.lt": "menor que",
   "entities.customFields.editor.validation.lte": "menor o igual",
   "entities.customFields.editor.validation.ne": "distinto",
-  "entities.customFields.editor.validation.regex": "regex",
+  "entities.customFields.editor.validation.regex": "expresión regular",
   "entities.customFields.editor.validation.required": "obligatorio",
   "entities.customFields.editor.validationRules": "Reglas de validación",
   "entities.customFields.editor.value": "Valor",
