@@ -204,7 +204,7 @@
   "planner.nav.group": "Jornada / Disponibilidad",
   "planner.resourceTypes.actions.add": "Agregar tipo de recurso",
   "planner.resourceTypes.actions.delete": "Eliminar",
-  "planner.resourceTypes.actions.deleteConfirm": "Eliminar el tipo de recurso \"{{name}}\"?",
+  "planner.resourceTypes.actions.deleteConfirm": "¿Eliminar el tipo de recurso \"{{name}}\"?",
   "planner.resourceTypes.actions.edit": "Editar",
   "planner.resourceTypes.actions.refresh": "Actualizar",
   "planner.resourceTypes.actions.showResources": "Ver recursos ({{count}})",
